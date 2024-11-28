@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/collin/hackrpg-server/build",
+  "command": "/usr/bin/c++ -DAWS_AUTH_USE_IMPORT_EXPORT -DAWS_CAL_USE_IMPORT_EXPORT -DAWS_CHECKSUMS_USE_IMPORT_EXPORT -DAWS_COMMON_USE_IMPORT_EXPORT -DAWS_COMPRESSION_USE_IMPORT_EXPORT -DAWS_CRT_CPP_USE_IMPORT_EXPORT -DAWS_EVENT_STREAM_USE_IMPORT_EXPORT -DAWS_HTTP_USE_IMPORT_EXPORT -DAWS_IO_USE_IMPORT_EXPORT -DAWS_MQTT_USE_IMPORT_EXPORT -DAWS_S3_USE_IMPORT_EXPORT -DAWS_SDKUTILS_USE_IMPORT_EXPORT -DAWS_SDK_VERSION_MAJOR=1 -DAWS_SDK_VERSION_MINOR=11 -DAWS_SDK_VERSION_PATCH=449 -DAWS_USE_EPOLL -DUSE_IMPORT_EXPORT=1 -I/home/collin/hackrpg-server/include -std=gnu++17 -fPIC -o CMakeFiles/MultiplayerServer.dir/src/Server.cpp.o -c /home/collin/hackrpg-server/src/Server.cpp",
+  "file": "/home/collin/hackrpg-server/src/Server.cpp",
+  "output": "CMakeFiles/MultiplayerServer.dir/src/Server.cpp.o"
+},
+{
+  "directory": "/home/collin/hackrpg-server/build",
+  "command": "/usr/bin/c++ -DAWS_AUTH_USE_IMPORT_EXPORT -DAWS_CAL_USE_IMPORT_EXPORT -DAWS_CHECKSUMS_USE_IMPORT_EXPORT -DAWS_COMMON_USE_IMPORT_EXPORT -DAWS_COMPRESSION_USE_IMPORT_EXPORT -DAWS_CRT_CPP_USE_IMPORT_EXPORT -DAWS_EVENT_STREAM_USE_IMPORT_EXPORT -DAWS_HTTP_USE_IMPORT_EXPORT -DAWS_IO_USE_IMPORT_EXPORT -DAWS_MQTT_USE_IMPORT_EXPORT -DAWS_S3_USE_IMPORT_EXPORT -DAWS_SDKUTILS_USE_IMPORT_EXPORT -DAWS_SDK_VERSION_MAJOR=1 -DAWS_SDK_VERSION_MINOR=11 -DAWS_SDK_VERSION_PATCH=449 -DAWS_USE_EPOLL -DUSE_IMPORT_EXPORT=1 -I/home/collin/hackrpg-server/include -std=gnu++17 -fPIC -o CMakeFiles/MultiplayerServer.dir/src/main.cpp.o -c /home/collin/hackrpg-server/src/main.cpp",
+  "file": "/home/collin/hackrpg-server/src/main.cpp",
+  "output": "CMakeFiles/MultiplayerServer.dir/src/main.cpp.o"
+}
+]
